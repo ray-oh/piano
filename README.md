@@ -2,6 +2,10 @@
 Various tools for piano playing
 
 
+- [Lilypond notation](http://v-paul.de/lilypond/lilypond.pdf)
+
+- [Hacklily](https://www.hacklily.org/)
+
 - [MuseScore music notation](https://musescore.org/en)
 
 - [Categorized collection of awesome music libraries, tools, frameworks and software.](https://github.com/ciconia/awesome-music)

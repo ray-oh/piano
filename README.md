@@ -8,11 +8,16 @@
 - [Lilypond online editor](https://www.weblily.net/)
   - [Lilypond notation reference](https://www.weblily.net/weblily-app/Clickable-Notation-Reference.html)
   - [Lilypond notation](http://v-paul.de/lilypond/lilypond.pdf)
+  - [Musical symbols list - wikipedia](https://en.wikipedia.org/wiki/List_of_musical_symbols)
 
 - [Hacklily](https://www.hacklily.org/)
   - [Hacklily github](https://github.com/jocelyn-stericker/hacklily)
   - [Github integration](https://docs.sonarqube.org/9.6/devops-platform-integration/github-integration/)
   - [Get github api client id and client secret](https://www.knowband.com/blog/user-manual/get-github-client-id-client-secret-api-details/)
+
+- [Frescobaldi](https://www.frescobaldi.org/uguide#help_introduction)
+
+- [Denemo Tutorial](https://www.youtube.com/watch?v=rdau7F_aa0s)
 
 - [MuseScore music notation](https://musescore.org/en)
 
